@@ -1,3 +1,5 @@
+<img width="855" height="1600" alt="screenshot 2" src="https://github.com/user-attachments/assets/0e3d5d9f-7689-41f6-8155-9c4ca9321de9" />
+<img width="576" height="1280" alt="screenshot 1" src="https://github.com/user-attachments/assets/2d1f3935-ff05-4b54-bf93-6444a5f6eb7e" />
 
 
 The Smart Energy Meter is an IoT-based electricity monitoring system designed to measure and monitor electrical parameters such as voltage, current, power, power factor, frequency, and energy consumption in real time. The system uses a **PZEM-004T energy monitoring module** with an **ESP8266 NodeMCU** to collect electrical data and transmit it to a cloud-based dashboard using Wi-Fi. The dashboard provides live monitoring, energy-consumption tracking, graphical visualization, and **estimated electricity bill calculation based on consumption slabs**. This project demonstrates the integration of embedded systems, IoT connectivity, energy monitoring, cloud databases, and web-based data visualization to create a low-cost and practical smart energy management solution.
